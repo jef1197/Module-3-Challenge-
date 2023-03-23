@@ -6,7 +6,7 @@ This is the Module 3 Challenge for the boot camp. The Code was made from scratch
 
 Link to Deployment: https://jef1197.github.io/Module-3-Challenge-/
 
-![screen shot of website](/assets/website.png)
+![screen shot of website](/Assets/website.png)
 
 ## Usage
 
